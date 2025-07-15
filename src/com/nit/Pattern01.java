@@ -9,13 +9,14 @@ public class Pattern01
 		
 		for(int i=0;i<n;i++)
 		{
-                     int k=0;
-                     int m=0;
+                   
 			for(char j=(char) ('E'-i);j<='E';j++)
 			{
 				System.out.print(j);
 			}
 			System.out.println();
+                 
+
 		}
 		
 	}
