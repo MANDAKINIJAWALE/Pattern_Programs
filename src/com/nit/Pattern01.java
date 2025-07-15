@@ -6,7 +6,7 @@ public class Pattern01
 {
 	public static void patternMethod(int n)
 	{
-		
+		for(;;){}
 		for(int i=0;i<n;i++)
 		{
                    
